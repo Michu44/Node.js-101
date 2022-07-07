@@ -11,3 +11,18 @@ Follow the [Node.js 101 guide on Github Pages](https://michu44.github.io/Node.js
 
 Michael Lopez is Founding Partner of [EasyCode-IT AG](https://www.easycode-it.com) and [EasySystems GmbH](https://www.easysystems.ch) as well as [EasyStudios](https://easystudios.ch) and [EasyAcademy](https://www.easyacademy.swiss).
 
+# Social Media
+
+Follow Michael Lopez on Social Media
+
+[Twitter](https://twitter.com/michu_44)
+
+[Github](https://github.com/Michu44)
+
+[Instagram](https://www.instagram.com/michu_44/)
+
+[LinkedIn](www.linkedin.com/in/michael-lopez-53a44654)
+
+Follow EasyAcademy
+
+[LinkedIn](https://www.linkedin.com/company/easyacademy-swiss/)
