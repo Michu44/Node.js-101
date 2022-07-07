@@ -1,7 +1,7 @@
 //************************************************************************* */
 //
-// Module:      01
-// Title:       Variables
+// Module:      00
+// Title:       Setup Dev Environement
 // Guide Link:  https://michu44.github.io/Node.js-101/
 // Author:      Michael Lopez
 // Publisher:   EasyAcademy
