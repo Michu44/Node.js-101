@@ -26,3 +26,4 @@ Follow Michael Lopez on Social Media
 Follow EasyAcademy
 
 [LinkedIn](https://www.linkedin.com/company/easyacademy-swiss/)
+
