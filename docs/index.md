@@ -5,7 +5,7 @@ This guide is provided by [EasyAcademy](https://www.easyacademy.swiss).
 
 This repository contains all required files, and excercises.
 
-Follow the [Node.js 101 guide on Github Pages](https://michu44.github.io/Node.js-101/), and start learning now.
+Start learning now.
 
 # About the author
 
